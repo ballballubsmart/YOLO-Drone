@@ -8,7 +8,7 @@ Google Drive: https://drive.google.com/drive/folders/1VjVmCZdJfywiRq_AOhEjuz3ZgZ
 Baidu Netdisk: https://pan.baidu.com/s/1VZYZw2PYXwJ_J3zRmR5xcA?pwd=bj62 
 
 # If you use GA-Fly in an academic context, please cite the following publication:
-'''
+'''bibtex
 @article{wang2025drone,
   title={Drone detection and tracking: An edge-deployable efficient algorithm based on vision sensor},
   author={Wang, Ban and Li, Jun and Zhou, Maoying and Lu, Qinfen},
